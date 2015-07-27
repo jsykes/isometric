@@ -1,0 +1,7 @@
+7-24-15
+  Fixes the tile highlight rendering when you applyInteractions with shadowDistance enabled.
+
+7-26-15
+  * Adds option to set the mouseover tile highlight color at the layer creation's "mouseOverColor" attribute.
+  * Adds function to Field.js for selecting a tile with the Field.select(x,y) (screen coords)
+  * Adds option to set the tile selected color at the layer creation's "selectedTileColor" attribute. Hidden by default.
